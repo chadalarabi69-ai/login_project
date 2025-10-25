@@ -32,7 +32,7 @@ User table showing all registered users.
 
 ### 2️⃣ Login Page
 User enters username and password.
-![Login Page](images/login.png.png)
+![Login Page](images/login.png)
 
 ---
 
