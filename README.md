@@ -26,13 +26,13 @@ The goal of this project is to create a simple and functional **user authenticat
 
 ### 1️⃣ MySQL Database
 User table showing all registered users.
-![MySQL Screenshot](images/mysql.png)
+![MySQL Screenshot](images/mysql.png.png)
 
 ---
 
 ### 2️⃣ Login Page
 User enters username and password.
-![Login Page](images/login.png)
+![Login Page](images/login.png.png)
 
 ---
 
