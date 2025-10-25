@@ -26,7 +26,7 @@ The goal of this project is to create a simple and functional **user authenticat
 
 ### 1️⃣ MySQL Database
 User table showing all registered users.
-![MySQL Screenshot](images/mysql.png.png)
+![MySQL Screenshot](images/mysql.png)
 
 ---
 
